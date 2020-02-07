@@ -3,7 +3,7 @@
 
 #### Iteration 1
 Due on 2/6/2020
-for this Iteration, I wrote the a Maven Project that 
+for this Iteration, I wrote a Maven Project that 
 would open a CSV file using OpenCSV which is a program 
 used for reading said file. After it reads the file it
 then prints out the contents of the file into the console
